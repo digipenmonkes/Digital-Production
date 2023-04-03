@@ -12,4 +12,5 @@ Monkes remember the ~Sea~ C?
 
 
 Monke
-![image](https://user-images.githubusercontent.com/129766461/229544769-f26b10ea-490c-4b6d-bea1-2bf9ad2ec9f1.png)
+
+![Monke](https://media.istockphoto.com/id/518959928/photo/mountain-gorilla.jpg?s=612x612&w=0&k=20&c=ccPitOZXoWS-BrjTee5z7Z1somIaO1wYkvF3kZCjQXc=)
